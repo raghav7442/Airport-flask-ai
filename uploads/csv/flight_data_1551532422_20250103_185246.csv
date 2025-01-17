@@ -1,0 +1,7 @@
+trip_type,flight_no,passenger_name,source_location,departure_date,departure_time,arrival_date,arrival_time,arrival_location,airline_name
+single_trip,AI 2623,Mr. Shaan Malani,Mumbai,"Sun, 02 Feb 2025",09:40 hrs,"Sun, 02 Feb 2025",11:10 hrs,Udaipur,Air India
+round_trip,AI 2614,Mr. Shaan Malani,Udaipur,"Tue, 04 Feb 2025",14:20 hrs,"Tue, 04 Feb 2025",15:55 hrs,Mumbai,Air India
+single_trip,AI-683,Mr Shaan Malani,Mumbai,"Monday, October 07, 2024",21:00,Mon 07 Oct 2024,22:00,Goa,Air India
+single_trip,UK-513,SHAAN MALANI,Mumbai,03-Apr-2024,18:55,03-Apr-2024,20:10,North Goa,Vistara
+single_trip,DELTA 9494,SHAAN MALANI,"Amsterdam, Netherlands","Sat, 24DEC",1:20pm,Sun 25DEC,2:15am,"Mumbai, India",Delta
+round_trip,DELTA 9495,SHAAN MALANI,"Mumbai, India","Sun, 29JAN",1:15am,,9:15am,"Amsterdam, Netherlands",Delta
